@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "created": "2025-09-27T17:16:21Z",
+  "roles": [
+    {
+      "id": "admin",
+      "name": "Administrator"
+    },
+    {
+      "id": "editor",
+      "name": "Editor"
+    }
+  ],
+  "users": [
+    {
+      "github": "rihenna-bitlab",
+      "roles": [
+        "admin"
+      ],
+      "expiresAt": null
+    }
+  ],
+  "signature": "o8JMEgcealWxRnJ1FNCZU/rG5ZHBPgrAwHbLJunpcFR7pRcDlXTsBGe4BjT2juRx35NtW8hBCfLqD/9m8AB5WgPOFT03HbEc6L958r6FEpZJE08h65o5VFTVWI7GdObuBeK9DTk7nDNBSzUskUJ2DXkPCYHFpclkY/VlQXBxces/tsW0MG0qhOdgKSb5PHtbRrL/Sqkpsst9xa9ts7hAM\u002BUvA0ekIqL\u002B0/tK8eMWhfsmyyOQp\u002B7kzhSxs0VXhTX5UO7eUsaoLdJzVOyEiHojZ9auCI5tGbOS6m6Fi728nQKTB2pUFfpl\u002BRmmfBbmdn7CYT1cc0h2lNnt/M7VG5ARPg=="
+}

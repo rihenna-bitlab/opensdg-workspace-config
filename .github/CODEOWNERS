@@ -1,0 +1,3 @@
+# RBAC Configuration - Only repo owner can approve changes
+roles/ @rihenna-bitlab
+*.json @rihenna-bitlab
