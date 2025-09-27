@@ -1,0 +1,15 @@
+{
+  "lastUpdated": "2025-09-27T17:19:15Z",
+  "repositories": [
+    {
+      "url": "https://github.com/rihenna-bitlab/papua-new-guinea-data",
+      "type": "data",
+      "addedAt": "2025-09-27T17:19:15Z"
+    },
+    {
+      "url": "https://github.com/rihenna-bitlab/papua-new-guinea-site",
+      "type": "site",
+      "addedAt": "2025-09-27T17:19:15Z"
+    }
+  ]
+}
